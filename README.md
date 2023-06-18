@@ -7,7 +7,7 @@
 class IDA
   def initialize
     @Github = "https://github.com/Youssef-Lehmam"
-    @Discord = "! YOUSSEF#3660"
+    @Discord = "YOUSSEF#1158"
     @Instagram = "https://www.instagram.com/yousseflehmam"
   end
   
